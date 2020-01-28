@@ -50,7 +50,7 @@ function johnLennonFacts(facts) {
 }
 
 
-johnLennonFacts(facts);
+var extremeFacts = johnLennonFacts(facts);
 
 
 

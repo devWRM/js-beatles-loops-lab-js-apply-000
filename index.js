@@ -55,10 +55,3 @@ var extremeFacts = johnLennonFacts(facts);
 
 
 // THIRD challenge function iLoveTheBeatles
-
-
-
-
-
-
-

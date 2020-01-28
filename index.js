@@ -27,6 +27,3 @@ var blurb = theBeatlesPlay(musicians, instruments);
 
 
 // SECOND challenge function johnLennonFacts
-
-
-

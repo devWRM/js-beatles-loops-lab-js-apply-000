@@ -55,3 +55,21 @@ var extremeFacts = johnLennonFacts(facts);
 
 
 // THIRD challenge function iLoveTheBeatles
+
+function iLoveTheBeatles(numParam) {
+var muchLove = [];
+var i = 0;
+
+do {
+	muchLove[i] = "I love the Beatles!"; 
+	i = i + 1;
+	numParam = numParam + 1;
+} while (numParam < 15);
+
+
+return muchLove;	
+}
+
+iLoveTheBeatles(7);
+
+

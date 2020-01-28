@@ -43,7 +43,7 @@ function johnLennonFacts(facts) {
 	var i = 0;
 
 	while (i < facts.length) {
-		extremeFacts[i] = facts[i] + " !!!";
+		extremeFacts[i] = facts[i] + "!!!";
 		i++
 	}
 	return extremeFacts;
